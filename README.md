@@ -1,6 +1,5 @@
-- 👋 Hi, I am Kire Kolaroski and I am a machine learning engineer.
+- 👋 Hi, I am Kire Kolaroski and I am a machine learning engineer / data scientist.
 - 👀 I am interested in building high-end machine learning products.
-- 🌱 I am currently studying about cloud computing platforms, and how to use them with machine learning.
 - 📫 You can reach me at kire@kolaroski.com
 
 <!---
